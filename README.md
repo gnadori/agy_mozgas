@@ -1,4 +1,4 @@
-# NeuroDynamics of the "F" Key 🧠⌨️ / Az „F” billentyű neurodinamikája
+# NeuroDynamics of the "F" Key / Az „F” billentyű neurodinamikája
 
 An interactive 3D neuro-motor simulation webpage that visualizes the distributed neural cascade when you press the **"F" key** on a keyboard with your left index finger. Features complete bilingual support (**Magyar** / **English**).
 
